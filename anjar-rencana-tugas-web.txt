@@ -1,0 +1,8 @@
+RENCANA TUGAS WEB DICODING
+- Membuat Navbar
+- Membuat Jumbotron & Slider
+- Membuat Content Web 
+- Membuat Card Product
+- Membuat About Me
+- Membuat Contact Us
+- Membuat Footer 
