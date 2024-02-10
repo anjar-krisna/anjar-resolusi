@@ -4,9 +4,10 @@ RENCANA TUGAS WEB DICODING
     Home, About Me, Product, Contact Us
   * Link nya ada Hover dan Garis Bawah
   * Membuat page masing2 Link Navbar
-  * Hurufnya terlihat Bold setelah di Hover
-- Membuat Jumbotron & Slider
-  * Siapkan Asset(Img)
+- Coba-Jumbotron-dan-Slidernya
+  * Huruf untuk Linknya Verdana, 20 px
+  * Membuat Hamburger Menu dan Responsive Menu Nav Link nya
+- Siapkan Asset(Img)
   * Buat Style.css file
   * Buat Script.js  
   *Jumbutron dan Slider ada Interaktivitas fitur dan Responsive
