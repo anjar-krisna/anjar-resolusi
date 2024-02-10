@@ -5,6 +5,7 @@ RENCANA TUGAS WEB DICODING
   * Link nya ada Hover dan Garis Bawah
   * Membuat page masing2 Link Navbar
   * Huruf untuk Linknya Verdana, 20 px
+  * Membuat Hamburger Menu dan Responsive Menu Nav Link nya
 - Membuat Jumbotron & Slider
   * Siapkan Asset(Img)
   * Buat Style.css file
